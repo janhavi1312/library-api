@@ -259,16 +259,19 @@ curl "http://localhost:8080/books/search?year=1949"
 *Retrieved all books from the library*
 
 ### 3. GET Request - Retrieving Specific Book
-![Get Book by ID](screenshots/get-book-by-id.png)
+![Get Book by ID]<img width="1920" height="1080" alt="get png" src="https://github.com/user-attachments/assets/98730b92-1aaa-49d9-be8f-ef2b44f25bcb" />
+
 *Retrieved book details by ID*
 
 
 ### 4. DELETE Request - Deleting a Book
-![Delete Book](screenshots/delete-book.png)
+![Delete Book]<img width="1920" height="1080" alt="delete png" src="https://github.com/user-attachments/assets/e2c6cc24-fd28-4bd7-bdc1-93b7f16e3f76" />
+
 *Successfully deleted a book (204 No Content)*
 
 ### 5. GET Request - Search by Year
-![Search Books](screenshots/search-by-year.png)
+![Search Books]<img width="1920" height="1080" alt="searchbyyear png" src="https://github.com/user-attachments/assets/f4ca1fe6-b1eb-45ce-9991-91ff2201ee30" />
+
 *Filtered books by publication year*
 
 ---
