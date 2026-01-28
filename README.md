@@ -247,31 +247,26 @@ curl "http://localhost:8080/books/search?year=1949"
 
 ## 📸 Output Screenshots
 
-### 1. Application Running Successfully
-![Application Started](<img width="1920" height="1080" alt="Screenshot 2026-01-28 123544" src="https://github.com/user-attachments/assets/8f532471-765e-4651-9f8f-e380d32b7d75" />
-)
-*Application successfully started on port 8080*
-
-### 2. POST Request - Adding a Book
+### 1. POST Request - Adding a Book
 ![Add Book](<img width="1920" height="1080" alt="Screenshot 2026-01-28 123455" src="https://github.com/user-attachments/assets/c748ac99-b0a2-4404-8368-622ed633837e" />
 )
 *Successfully added a new book with ID 1*
 
-### 3. GET Request - Retrieving All Books
+### 2. GET Request - Retrieving All Books
 ![Get All Books](<img width="1920" height="1080" alt="Screenshot 2026-01-28 123345" src="https://github.com/user-attachments/assets/aac7cbe7-0c42-4587-9301-b41c18fa0472" />
 )
 *Retrieved all books from the library*
 
-### 4. GET Request - Retrieving Specific Book
+### 3. GET Request - Retrieving Specific Book
 ![Get Book by ID](screenshots/get-book-by-id.png)
 *Retrieved book details by ID*
 
 
-### 6. DELETE Request - Deleting a Book
+### 4. DELETE Request - Deleting a Book
 ![Delete Book](screenshots/delete-book.png)
 *Successfully deleted a book (204 No Content)*
 
-### 7. GET Request - Search by Year
+### 5. GET Request - Search by Year
 ![Search Books](screenshots/search-by-year.png)
 *Filtered books by publication year*
 
