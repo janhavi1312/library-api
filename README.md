@@ -248,7 +248,8 @@ curl "http://localhost:8080/books/search?year=1949"
 ## 📸 Output Screenshots
 
 ### 1. POST Request - Adding a Book
-![Add Book](<img width="1920" height="1080" alt="Screenshot 2026-01-28 123455" src="https://github.com/user-attachments/assets/c748ac99-b0a2-4404-8368-622ed633837e" />
+![Add Book]<img width="1920" height="1080" alt="INSERT png" src="https://github.com/user-attachments/assets/526a4d2a-1c82-4d87-851f-f6d7f9f7e082" />
+
 )
 *Successfully added a new book with ID 1*
 
